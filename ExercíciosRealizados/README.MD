@@ -1,9 +1,9 @@
  Questão | Enunciado
 :---------: | :------:
- 15    | Em um campeonato de futebol existem cinco times e cada time possui onze jogadores. Faga um programa que receba a idade, o peso e a altura de cada um dos jogadores. Calcule:
+ 15    | Em um campeonato de futebol existem cinco times e cada time possui onze jogadores. Faça um programa que receba a idade, o peso e a altura de cada um dos jogadores. Calcule:
  a)  | A quantidade de jogadores com idades inferiores a 18 anos.
  b)  | A média das idades dos jogadores de cada time.
- c)  | A média das alturaas de todos os jogadores do campeonato.
+ c)  | A média de altura de todos os jogadores do campeonato.
  d)  | A porcentagem de jogadores com mais de 80 quilos entre todos os jogadores do campeonato.
  
 Questão | Enunciado
@@ -36,3 +36,23 @@ Questão | Enunciado
  c)  | A porcentagem de crianças do sexo feminino mortas no período.
  d)  | A porcentagem de crianças do sexo masculinos mortas no período.
  e)  | A porcentagem de crianças que viveram 24 meses ou menos no período.
+
+Questão | Enunciado
+:------: | :-------:
+23 | Faça um programa que receba o valor de uma dívida e mostre um tabela com os seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela. Os juros e a quantidade de parcelas segue a tabela abaixo:
+
+Quantidade de parcelas | % de juros sobre o valor inicial da dívida
+:--------------------: | :----------------------------------------:
+1  | 0
+3  | 10
+6  | 15
+9  | 20
+12 | 25
+
+### Exemplo de saída do programa: 
+
+valor da dívida | valor do juros | quantidade de parcelas | valor da parcela
+:-: | :-: | :-: | :-:
+R$ 1.000,00 | 0 | 1 | R$ 1.000,00
+R$ 1.100,00 | 100 | 3 | R$ 366,67 
+R$ 1.150,00 | 150 | 6 | R$ 191,67
