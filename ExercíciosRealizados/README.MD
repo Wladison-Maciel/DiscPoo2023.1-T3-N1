@@ -56,3 +56,12 @@ valor da dívida | valor do juros | quantidade de parcelas | valor da parcela
 R$ 1.000,00 | 0 | 1 | R$ 1.000,00
 R$ 1.100,00 | 100 | 3 | R$ 366,67 
 R$ 1.150,00 | 150 | 6 | R$ 191,67
+
+Questão | Enunciado
+:------: | :-------:
+33 | Faça um programa para ler o código, o sexo (M - Masculino, F - Feminino) e o número de horas/aula dadas mensalmente pelos professores de uma universidade, sabendo-se que que cada hora/aula vale R$ 18,50. Emita uma listagem contendo o código, o salário bruto e o salário líquido ( levando em consideração os descontos explicados a seguir ) de todos os professores lidos. Mostre também a média dos salários líquidos dos professores do sexo masculino e o salário bruto dos professores do sexo feminino. Considere:
+a) | Desconto para homens 10% e para as mulheres 5%;
+b) | As informações terminarão quando for lido o código = 99999;
+
+Questão | Enunciado
+:------: | :-------:
