@@ -32,7 +32,7 @@ Questão | Enunciado
  22  | Foi feita uma pesquisa para determinar o indice de mortalidade infantil em um certo periodo, Faga um programa que:
  a)  | Leia o número de crianças nascidas em um periodo.
  b)  | O sexo (M ou F) e o tempo de vida para criança nascida.
- ()  | Calcule e mostre: 
+ .  | Calcule e mostre: 
  c)  | A porcentagem de crianças do sexo feminino mortas no período.
  d)  | A porcentagem de crianças do sexo masculinos mortas no período.
  e)  | A porcentagem de crianças que viveram 24 meses ou menos no período.
@@ -74,7 +74,7 @@ Questão | Enunciado
 :------: | :-------:
 37 | Uma empresa decidiu fazer um levantamento em relação aos candidatos que se apresentarem para preenchimento de vagas no seu quadro de funcionários. Supondo que você seja o programador dessa empresa, faça um programa que calcule:
 a) | Leia, para cada candidato, a idade, o sexo (M ou F) e a experiência no serviço (S ou N). Para encerrar a entrada de dados digite zero para a idade;
-() | Calcule e mostre:
+. | Calcule e mostre:
 b) | O número de candidatos do sexo feminino.
 c) | O número de candidatos do sexo masculino.
 d) | A idade média dos homens que já tem experiência no serviço.
@@ -86,7 +86,7 @@ g) | A menor idade entre as mulheres que já têm experiência no serviço.
 Questão | Enunciado
 :------: | :-------:
 38 | Faça um programa que receba o valor do salário mínino e uma lista contendo a quantidade de quilowatts gasta por consumidor e o tipo de consumidor ( 1 - Residencial, 2 - Comercial, 3 - Industrial)
-() | Calcule e mostre:
+. | Calcule e mostre:
 a) | O valor de cada quilowatt, sabendo que o quilowatt custa 1/8 do salário mínimo.
 b) | O valor a ser pago por cada consumidor (conta final + acréscimo), considerando que o acréscimno é o mesmo da tabela a seguir.
 c) | O faturamento geral da empresa.
