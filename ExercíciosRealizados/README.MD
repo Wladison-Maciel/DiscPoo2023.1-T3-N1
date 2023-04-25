@@ -5,18 +5,30 @@
  b)  | A média das idades dos jogadores de cada time.
  c)  | A média das alturaas de todos os jogadores do campeonato.
  d)  | A porcentagem de jogadores com mais de 80 quilos entre todos os jogadores do campeonato.
-   16     | Faça um programa que recebe dois numeros. Calcule e mostre:
+ 
+Questão | Enunciado
+:------: | :-------:
+  16  | Faça um programa que recebe dois numeros. Calcule e mostre:
  a)  | A soma dos números pares desses intervalo de números, incluindo os números digitados.
  b)  | A multiplicação dos números ímpares desse intervalo de números, incluindo os números digitados.
+ 
+ Questão | Enunciado
+ :------: | :-------:
  17  | Faça um programa que receba dois números. Calcule e mostre:
  a)  | Caso os números formem um intervalo crescente, a média dos números do intervalo, incluindo os números digitados.
  b)  | Caso os números formem um intervalo decrescente, a quantidade de números pares, incluindo os números digitados.
  c)  | Se os números forem iguais, mostrar uma mensagem.
+ 
+Questão | Enunciado
+:------: | :-------:
  19  | Tem-se um conjunto de dados contendo a altura e o sexo (M ou F) de 15 pessoas. Faça um porgrama que calcule e mostre:
  a)  | A maior e a menor altura do grupo.
  b)  | A média de altura das mulheres.
  c)  | O Número de homens.
  d)  | o sexo da pessoa mais alta.
+ 
+Questão | Enunciado
+:------: | :-------:
  22  | Foi feita uma pesquisa para determinar o indice de mortalidade infantil em um certo periodo, Faga um programa que:
  a)  | Leia o número de crianças nascidas em um periodo.
  b)  | O sexo (M ou F) e o tempo de vida para criança nascida.
