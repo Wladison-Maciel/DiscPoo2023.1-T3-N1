@@ -65,3 +65,10 @@ b) | As informações terminarão quando for lido o código = 99999;
 
 Questão | Enunciado
 :------: | :-------:
+36 | Faça um programa que:
+a) | Leia um número indeterminado de linhas contendo cada uma a idade de um indíviduo. A ultima linha, que não entrará nos cálculos, contém o valor da idade igual a zero;
+b) | Calcule e mostre a idade média desse grupo de indíviduos;
+
+
+Questão | Enunciado
+:------: | :-------:
